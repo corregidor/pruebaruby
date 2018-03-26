@@ -1,0 +1,51 @@
+La prueba consta de 5 items
+Cada item vale 2 puntos
+Dentro de cada item se espera:
+	a) Indentacion correcta : 0.5 pt
+	b) Correcto uso del lenguaje: 0.5 pt 
+	c) Resolución del problema: 1 pt
+
+
+Item 1 : Menu
+
+a) Indentación correcta: 0.5
+b) Correcto uso del lenguaje: 0.5
+c) Resolución del problema: 1.0
+
+Item 2 : Promedios por alumnos en archivo adicional
+
+a) Indentación correcta: 0.5
+b) Correcto uso del lenguaje: 0.5 
+c) Resolución del problema: 1.0
+Comentarios:
+Visualización desordenada
+
+Item 3 : Conteo de inasistencias totales en pantalla
+
+a) Indentación correcta: 0.5
+b) Correcto uso del lenguaje: 0.5 
+c) Resolución del problema: 1.0
+
+Item 4 : Alumnos aprobados por pantalla
+
+a) Indentación correcta: 0.5
+b) Correcto uso del lenguaje: 0.5 
+c) Resolución del problema: 0.2
+	Comentarios: 
+	No imprimir todo el array
+	No existe un desarrollo del ejercicio, se coloca puntaje 
+	solo por leer el archivo
+
+Item 5 : Salir
+
+a) Indentación correcta: 0.5
+b) Correcto uso del lenguaje: 0.5 
+c) Resolución del problema: 1.0
+
+Comentarios generales: Falta mejorar la visualización en pantalla
+y falta el ejercicio 3
+
+
+
+
+  
